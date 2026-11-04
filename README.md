@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:vasileios.tripolidis@gmail.com"><img src="assets/btn-email.png" height="46" alt="Email me"></a>&nbsp;
-  <a href="https://vasileiostripolidis.github.io/"><img src="assets/btn-site.png" height="46" alt="Website"></a>
+  <a href="https://vasileiostripolidis.github.io/Vasileios_Portfolio/"><img src="assets/btn-site.png" height="46" alt="Portfolio"></a>
 </p>
 
 <br>
