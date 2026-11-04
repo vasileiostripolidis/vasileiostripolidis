@@ -28,7 +28,6 @@
 | Project | What it is | Built with |
 |:--|:--|:--|
 | [**Vero**](https://github.com/vasileiostripolidis/Vero) | Landing page for an order-taking app | HTML · CSS |
-| [**omada-app**](https://github.com/vasileiostripolidis/omada-app) | Football team management app | TypeScript |
 | [**Portfolio**](https://github.com/vasileiostripolidis/Vasileios_Portfolio) | My personal website | HTML · CSS |
 
 ## How I build
