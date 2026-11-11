@@ -27,7 +27,8 @@
 
 | Project | What it is | Built with |
 |:--|:--|:--|
-| [**Vero**](https://github.com/vasileiostripolidis/Vero) | Landing page for an order-taking app | HTML · CSS |
+| [**DOC**](https://github.com/vasileiostripolidis/doc-releases) | A light, offline word processor that opens and saves Word files (.docx) — [Download →](https://github.com/vasileiostripolidis/doc-releases/releases/latest) | Tauri · Rust · JS |
+| [**XLS**](https://github.com/vasileiostripolidis/xls-releases) | A light, offline spreadsheet app that opens and saves Excel files (.xlsx) — [Download →](https://github.com/vasileiostripolidis/xls-releases/releases/latest) | Tauri · Rust · JS |
 | [**Portfolio**](https://github.com/vasileiostripolidis/Vasileios_Portfolio) | My personal website | HTML · CSS |
 
 ## How I build
@@ -42,6 +43,6 @@
 
 ### 🇬🇷 Ελληνικά
 
-Είμαι ο Βασίλειος Τριπολίδης, από την Πάτρα. Στον ελεύθερο χρόνο μου φτιάχνω μικρές, γρήγορες εφαρμογές που σέβονται τα δεδομένα σου: τον **[Orbit](https://github.com/vasileiostripolidis/Orbit)**, ένα ρομποτάκι για τη γραμμή εργασιών των Windows, και το **[Flipleaf](https://github.com/vasileiostripolidis/flipleaf)**, έναν ελαφρύ επεξεργαστή PDF για κάθε υπολογιστή. Είναι δωρεάν· ο κώδικας είναι ιδιωτικός.
+Είμαι ο Βασίλειος Τριπολίδης, από την Πάτρα. Στον ελεύθερο χρόνο μου φτιάχνω μικρές, γρήγορες εφαρμογές που σέβονται τα δεδομένα σου: τον **[Orbit](https://github.com/vasileiostripolidis/Orbit)**, ένα ρομποτάκι για τη γραμμή εργασιών των Windows, το **[Flipleaf](https://github.com/vasileiostripolidis/flipleaf)**, έναν ελαφρύ επεξεργαστή PDF για κάθε υπολογιστή, και τη σουίτα γραφείου με το **[DOC](https://github.com/vasileiostripolidis/doc-releases)** (κείμενα, συμβατό με Word) και το **[XLS](https://github.com/vasileiostripolidis/xls-releases)** (υπολογιστικά φύλλα, συμβατό με Excel). Είναι δωρεάν· ο κώδικας είναι ιδιωτικός.
 
 Επικοινωνία: [vasileios.tripolidis@gmail.com](mailto:vasileios.tripolidis@gmail.com)
