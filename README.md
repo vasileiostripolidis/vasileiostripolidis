@@ -12,9 +12,9 @@
 
 ## Featured
 
-<a href="https://vasileiostripolidis.github.io/suite-releases/"><img src="assets/card-suite.png" alt="Suite — a light, private office suite: DOC for documents, XLS for spreadsheets" width="100%"></a>
+<a href="https://github.com/vasileiostripolidis/suite-releases"><img src="assets/card-suite.png" alt="Suite — a light, private office suite: DOC for documents, XLS for spreadsheets" width="100%"></a>
 
-**Suite** is a light office suite for Windows: **DOC** opens and saves Word files, **XLS** opens and saves Excel files. One installer, you pick what to install; offline, no telemetry.<br><a href="https://github.com/vasileiostripolidis/suite-releases/releases/latest/download/Suite_Setup.exe"><b>Download for Windows →</b></a> · <a href="https://vasileiostripolidis.github.io/suite-releases/">Project page</a>
+**Suite** is a light office suite for Windows: **DOC** opens and saves Word files, **XLS** opens and saves Excel files. One installer, you pick what to install; offline, no telemetry.<br><a href="https://github.com/vasileiostripolidis/suite-releases/releases/latest/download/Suite_Setup.exe"><b>Download for Windows →</b></a> · <a href="https://github.com/vasileiostripolidis/suite-releases">Project page</a> · <a href="https://vasileiostripolidis.github.io/suite-releases/">Website</a>
 
 <table>
   <tr>
@@ -45,6 +45,6 @@
 
 ### 🇬🇷 Ελληνικά
 
-Είμαι ο Βασίλειος Τριπολίδης, από την Πάτρα. Στον ελεύθερο χρόνο μου φτιάχνω μικρές, γρήγορες εφαρμογές που σέβονται τα δεδομένα σου: τη σουίτα γραφείου **[Suite](https://vasileiostripolidis.github.io/suite-releases/)** με το DOC (κείμενα, συμβατό με Word) και το XLS (υπολογιστικά φύλλα, συμβατό με Excel), το **[Flipleaf](https://github.com/vasileiostripolidis/flipleaf)**, έναν ελαφρύ επεξεργαστή PDF για κάθε υπολογιστή, και τον **[Orbit](https://github.com/vasileiostripolidis/Orbit)**, ένα ρομποτάκι για τη γραμμή εργασιών των Windows. Είναι δωρεάν· ο κώδικας είναι ιδιωτικός.
+Είμαι ο Βασίλειος Τριπολίδης, από την Πάτρα. Στον ελεύθερο χρόνο μου φτιάχνω μικρές, γρήγορες εφαρμογές που σέβονται τα δεδομένα σου: τη σουίτα γραφείου **[Suite](https://github.com/vasileiostripolidis/suite-releases)** με το DOC (κείμενα, συμβατό με Word) και το XLS (υπολογιστικά φύλλα, συμβατό με Excel), το **[Flipleaf](https://github.com/vasileiostripolidis/flipleaf)**, έναν ελαφρύ επεξεργαστή PDF για κάθε υπολογιστή, και τον **[Orbit](https://github.com/vasileiostripolidis/Orbit)**, ένα ρομποτάκι για τη γραμμή εργασιών των Windows. Είναι δωρεάν· ο κώδικας είναι ιδιωτικός.
 
 Επικοινωνία: [vasileios.tripolidis@gmail.com](mailto:vasileios.tripolidis@gmail.com)
