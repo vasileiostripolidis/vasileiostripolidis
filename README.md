@@ -12,14 +12,18 @@
 
 ## Featured
 
+<a href="https://vasileiostripolidis.github.io/suite-releases/"><img src="assets/card-suite.png" alt="Suite — a light, private office suite: DOC for documents, XLS for spreadsheets" width="100%"></a>
+
+**Suite** is a light office suite for Windows: **DOC** opens and saves Word files, **XLS** opens and saves Excel files. One installer, you pick what to install; offline, no telemetry.<br><a href="https://github.com/vasileiostripolidis/suite-releases/releases/latest/download/Suite_Setup.exe"><b>Download for Windows →</b></a> · <a href="https://vasileiostripolidis.github.io/suite-releases/">Project page</a>
+
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/vasileiostripolidis/Orbit"><img src="assets/card-orbit.png" alt="Orbit — a little robot that lives in your Windows taskbar"></a></td>
     <td width="50%"><a href="https://github.com/vasileiostripolidis/flipleaf"><img src="assets/card-flipleaf.png" alt="Flipleaf — the light, private PDF editor for every desktop"></a></td>
+    <td width="50%"><a href="https://github.com/vasileiostripolidis/Orbit"><img src="assets/card-orbit.png" alt="Orbit — a little robot that lives in your Windows taskbar"></a></td>
   </tr>
   <tr>
-    <td><b>Orbit</b> catches every notification, keeps your reminders and notes, plays your music and brings helpers for your finances and your windows. One native <code>.exe</code>, no runtimes.<br><br><a href="https://github.com/vasileiostripolidis/Orbit/releases/latest/download/Orbit.exe"><b>Download for Windows →</b></a></td>
     <td><b>Flipleaf</b> reads, edits, signs, organizes, converts and protects PDFs. Small, offline, no telemetry, on Windows, macOS, Linux and the web.<br><br><a href="https://github.com/vasileiostripolidis/flipleaf/releases/latest"><b>Download →</b></a></td>
+    <td><b>Orbit</b> catches every notification, keeps your reminders and notes, plays your music and brings helpers for your finances and your windows. One native <code>.exe</code>, no runtimes.<br><br><a href="https://github.com/vasileiostripolidis/Orbit/releases/latest/download/Orbit.exe"><b>Download for Windows →</b></a></td>
   </tr>
 </table>
 
@@ -27,8 +31,6 @@
 
 | Project | What it is | Built with |
 |:--|:--|:--|
-| [**DOC**](https://github.com/vasileiostripolidis/doc-releases) | A light, offline word processor that opens and saves Word files (.docx) — [Download →](https://github.com/vasileiostripolidis/doc-releases/releases/latest) | Tauri · Rust · JS |
-| [**XLS**](https://github.com/vasileiostripolidis/xls-releases) | A light, offline spreadsheet app that opens and saves Excel files (.xlsx) — [Download →](https://github.com/vasileiostripolidis/xls-releases/releases/latest) | Tauri · Rust · JS |
 | [**Portfolio**](https://github.com/vasileiostripolidis/Vasileios_Portfolio) | My personal website | HTML · CSS |
 
 ## How I build
@@ -43,6 +45,6 @@
 
 ### 🇬🇷 Ελληνικά
 
-Είμαι ο Βασίλειος Τριπολίδης, από την Πάτρα. Στον ελεύθερο χρόνο μου φτιάχνω μικρές, γρήγορες εφαρμογές που σέβονται τα δεδομένα σου: τον **[Orbit](https://github.com/vasileiostripolidis/Orbit)**, ένα ρομποτάκι για τη γραμμή εργασιών των Windows, το **[Flipleaf](https://github.com/vasileiostripolidis/flipleaf)**, έναν ελαφρύ επεξεργαστή PDF για κάθε υπολογιστή, και τη σουίτα γραφείου με το **[DOC](https://github.com/vasileiostripolidis/doc-releases)** (κείμενα, συμβατό με Word) και το **[XLS](https://github.com/vasileiostripolidis/xls-releases)** (υπολογιστικά φύλλα, συμβατό με Excel). Είναι δωρεάν· ο κώδικας είναι ιδιωτικός.
+Είμαι ο Βασίλειος Τριπολίδης, από την Πάτρα. Στον ελεύθερο χρόνο μου φτιάχνω μικρές, γρήγορες εφαρμογές που σέβονται τα δεδομένα σου: τη σουίτα γραφείου **[Suite](https://vasileiostripolidis.github.io/suite-releases/)** με το DOC (κείμενα, συμβατό με Word) και το XLS (υπολογιστικά φύλλα, συμβατό με Excel), το **[Flipleaf](https://github.com/vasileiostripolidis/flipleaf)**, έναν ελαφρύ επεξεργαστή PDF για κάθε υπολογιστή, και τον **[Orbit](https://github.com/vasileiostripolidis/Orbit)**, ένα ρομποτάκι για τη γραμμή εργασιών των Windows. Είναι δωρεάν· ο κώδικας είναι ιδιωτικός.
 
 Επικοινωνία: [vasileios.tripolidis@gmail.com](mailto:vasileios.tripolidis@gmail.com)
